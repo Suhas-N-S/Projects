@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #fde047; 
+  }
+
+#shadow {
+  box-shadow: 10px 10px 3px ;
+}
